@@ -145,7 +145,7 @@ body{
 }
 
 @media only screen 
-  and (min-device-width: 392px) 
+  and (min-device-width: 372px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2.75) { 
     .imgcont{
